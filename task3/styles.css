@@ -32,14 +32,11 @@
   background-color: grey;
   width: 200px;
 }
-.div-news{
+.h-news{
     display: flex;
     justify-content: center;
     margin-top: 16px;
     margin-bottom: 16px;
-}
-.div-h-news{
-    margin: 0px;
 }
 .news{
     display: flex;
@@ -54,7 +51,7 @@
 }
 .dashboard {
     display: flex;
-  background-color: red;
+  background-color: pink;
   flex-grow: 1;
 }
 .message{
