@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.block{
+    width: 100px;
+    flex-grow: 1;
+    height: 100px;
+    
+}
