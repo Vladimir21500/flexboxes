@@ -54,7 +54,7 @@
 }
 .dashboard {
     display: flex;
-  background-color: pink;
+  background-color: red;
   flex-grow: 1;
 }
 .message{
