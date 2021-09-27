@@ -32,19 +32,16 @@
   background-color: grey;
   width: 200px;
 }
-.div-news{
+.h-news{
     display: flex;
     justify-content: center;
     margin-top: 16px;
     margin-bottom: 16px;
 }
-.div-h-news{
-    margin: 0px;
-}
 .news{
     display: flex;
     flex-direction: column;
-    margin: 0px;
+    margin: 11px 0px 0px 0px;
     padding: 0px;
     list-style-type: none;
 }
